@@ -1,0 +1,270 @@
+Events of Game 272856: "PL4p #3"
+#	 Turn 	 Game Phase 	 Player 	 Log Entry 	 Date 
+1 	1	PLANNING	Imrihil	Baratheon set his orders.	2021-Nov-24, 19:50
+2 	1	PLANNING	Kamil_J	Stark set his orders.	2021-Nov-24, 19:58
+3 	1	PLANNING	Sauron	Tyrell set his orders.	2021-Nov-24, 21:09
+4 	1	PLANNING	jpawlak	Lannister set his orders.	2021-Nov-25, 12:14
+5 	1	RAVEN	jpawlak	Lannister decided to look in the Wildling deck.	2021-Nov-25, 12:14
+6 	1	MARCH	jpawlak	Lannister knows things.	2021-Nov-25, 12:14
+7 	1	MARCH	Imrihil	Baratheon marched out of Kingswood
+- to Storms End with 1 Footman.	2021-Nov-25, 12:23
+8 	1	MARCH	jpawlak	Lannister has sailed from The Golden Sound
+- for Ironman's Bay with 1 Ship and defeated the deployed neutral fleet there.	2021-Nov-25, 12:57
+9 	1	MARCH	Kamil_J	Stark marched out of White Harbor
+- to Moat Cailin with 1 Footman.	2021-Nov-25, 13:16
+10 	1	MARCH	Sauron	Tyrell marched out of Dornish Marches
+- to Oldtown with 1 Footman.	2021-Nov-25, 14:41
+11 	1	MARCH	Imrihil	Baratheon has sailed from Shipbreaker Bay
+- for Blackwater Bay with 2 Ships.	2021-Nov-25, 14:45
+12 	1	MARCH	jpawlak	Lannister marched out of Lannisport
+- to Riverrun with 1 Knight.	2021-Nov-25, 14:47
+13 	1	MARCH	Kamil_J	Stark has sailed from The Shivering Sea
+- for The Narrow Sea with 1 Ship.	2021-Nov-25, 14:54
+14 	1	MARCH	Sauron	Tyrell marched out of Highgarden
+- to The Reach with 1 Knight.
+- to The Arbor with 1 Footman.	2021-Nov-25, 15:01
+15 	1	MARCH	Sauron	Tyrell has sailed from Redwyne Straights
+- for Summer Sea with 1 Ship.	2021-Nov-25, 15:02
+16 	1	POWER	Imrihil	Baratheon resolved his special Consolidate Power Order token in Dragonstone and mustered new units:
+- 2 Ships |	2021-Nov-25, 15:12
+17 	1	POWER	Kamil_J	Stark resolved his special Consolidate Power Order token in Winterfell and mustered new units:
+- 2 Ships |	2021-Nov-25, 15:15
+18 	1	POWER		Houses consolidate new power:
+- Lannister(+2)	2021-Nov-25, 15:15
+19 	2	WESTEROS		'Winter is Coming' - New events came up. Now: 'A Throne of Blades (W)'	2021-Nov-25, 15:15
+20 	2	WESTEROS	Imrihil	'A Throne of Blades (W)' - The holder of the Iron Throne chose no effect or new event for this turn.	2021-Nov-25, 15:25
+21 	2	WESTEROS	Imrihil	Baratheon exerted a power of [1] for the Iron Throne track.	2021-Nov-25, 15:25
+22 	2	WESTEROS	jpawlak	Lannister exerted a power of [1] for the Iron Throne track.	2021-Nov-25, 15:25
+23 	2	WESTEROS	Kamil_J	Stark exerted a power of [0] for the Iron Throne track.	2021-Nov-25, 15:26
+24 	2	WESTEROS	Sauron	Tyrell exerted a power of [0] for the Iron Throne track.	2021-Nov-25, 15:41
+25 	2	WESTEROS	Imrihil	Baratheon resolved tied bids. New order of the Iron Throne track:
+- [1] Baratheon | [2] Lannister | [4] Stark | [3] Tyrell |	2021-Nov-25, 16:03
+26 	2	WESTEROS	Kamil_J	Stark exerted a power of [2] for the Fiefdoms track.	2021-Nov-25, 16:06
+27 	2	WESTEROS	Imrihil	Baratheon exerted a power of [4] for the Fiefdoms track.	2021-Nov-25, 16:09
+28 	2	WESTEROS	jpawlak	Lannister exerted a power of [1] for the Fiefdoms track.	2021-Nov-25, 16:38
+29 	2	WESTEROS	Sauron	Tyrell exerted a power of [3] for the Fiefdoms track.	2021-Nov-25, 18:56
+30 	2	WESTEROS		New order of the Fiefdoms track:
+- [1] Baratheon | [4] Lannister | [3] Stark | [2] Tyrell |	2021-Nov-25, 18:56
+31 	2	WESTEROS		Baratheon exerted a power of [0] for the King's Court track.	2021-Nov-25, 18:56
+32 	2	WESTEROS	Sauron	Tyrell exerted a power of [1] for the King's Court track.	2021-Nov-25, 18:56
+33 	2	WESTEROS	Kamil_J	Stark exerted a power of [1] for the King's Court track.	2021-Nov-25, 20:45
+34 	2	WESTEROS	jpawlak	Lannister exerted a power of [1] for the King's Court track.	2021-Nov-25, 21:20
+35 	2	WESTEROS	Imrihil	Baratheon resolved tied bids. New order of the King's Court track:
+- [4] Baratheon | [1] Lannister | [3] Stark | [2] Tyrell |	2021-Nov-25, 21:28
+36 	2	WESTEROS		Wildlings Attack: Baratheon deployed a power of [0] against the wildlings.	2021-Nov-25, 21:28
+37 	2	WESTEROS		Wildlings Attack: Tyrell deployed a power of [0] against the wildlings.	2021-Nov-25, 21:28
+38 	2	WESTEROS	Kamil_J	Wildlings Attack: Stark deployed a power of [1] against the wildlings.	2021-Nov-25, 21:45
+39 	2	WESTEROS	jpawlak	Wildlings Attack: Lannister deployed a power of [4] against the wildlings.	2021-Nov-26, 08:57
+40 	2	WESTEROS		Drawn Wildling card: The Horde Descends	2021-Nov-26, 08:57
+41 	2	WESTEROS	jpawlak	The crowds of Wildlings have been blown away by the armies of Westeros!
+- Lannister mustered new units: 1 Footman | 1 Ship	2021-Nov-26, 09:01
+42 	2	PLANNING	jpawlak	Lannister set his orders.	2021-Nov-26, 09:04
+43 	2	PLANNING	Imrihil	Baratheon set his orders.	2021-Nov-26, 09:12
+44 	2	PLANNING	Kamil_J	Stark set his orders.	2021-Nov-26, 09:23
+45 	2	PLANNING	Sauron	Tyrell set his orders.	2021-Nov-26, 10:07
+46 	2	RAVEN	jpawlak	Lannister decided to look in the Wildling deck.	2021-Nov-26, 10:18
+47 	2	MARCH	jpawlak	Lannister knows things.	2021-Nov-26, 10:21
+48 	2	MARCH	Imrihil	Baratheon has sailed from Blackwater Bay
+- for Shipbreaker Bay with 2 Ships.	2021-Nov-26, 10:36
+49 	2	MARCH	jpawlak	Lannister has sailed from The Golden Sound
+- for Sunset Sea with 1 Ship.	2021-Nov-26, 11:35
+50 	2	MARCH	Sauron	Tyrell removed his March(+1) Order in The Reach.	2021-Nov-26, 13:34
+51 	2	MARCH	Imrihil	Baratheon has set sail from Shipbreaker Bay. -> Battle!
+[Attack] 2021/11/26, 13:35: Baratheon is attacking Stark in The Narrow Sea from Shipbreaker Bay with 2 Ships	2021-Nov-26, 13:35
+52 	2	BATTLE	Imrihil	Baratheon chose (4) Stannis Baratheon to lead his forces.	2021-Nov-26, 13:35
+53 	2	BATTLE	Kamil_J	Stark chose (1) Ser Rodrick Cassel to lead his forces.	2021-Nov-26, 13:44
+54 	2	BATTLE	Kamil_J	Stark lost the battle and withdrew to The Shivering Sea.	2021-Nov-26, 13:44
+55 	2	MARCH	jpawlak	Lannister marched out of Riverrun
+- to Seagard with 1 Footman.	2021-Nov-29, 13:06
+56 	2	MARCH	Imrihil	Baratheon marched out of Dragonstone
+- to White Harbor with 1 Knight. -> Battle!
+[Attack] 2021/11/29, 13:09: Baratheon is attacking Stark in Moat Cailin from Dragonstone with 1 Footman	2021-Nov-29, 13:09
+57 	2	BATTLE	Imrihil	Baratheon chose (3) Renly Baratheon to lead his forces.	2021-Nov-29, 13:09
+58 	2	BATTLE	Kamil_J	Stark chose (1) The Blackfish to lead his forces.	2021-Nov-29, 13:21
+59 	2	BATTLE	Kamil_J	Stark lost the battle and withdrew to The Twins.	2021-Nov-29, 13:21
+60 	2	BATTLE	Imrihil	Baratheon resolved (3) Renly Baratheon's special ability.
+- a Footman in Moat Cailin has been upgraded to a Knight.	2021-Nov-29, 13:22
+61 	2	POWER	jpawlak	Lannister resolved his special Consolidate Power Order token in Lannisport and mustered new units:
+- 2 Ships |	2021-Nov-29, 14:18
+62 	2	POWER	Sauron	Tyrell resolved his special Consolidate Power Order token in Oldtown and mustered new units:
+- 1 Ship |	2021-Nov-29, 16:31
+63 	2	POWER	Kamil_J	Stark resolved his special Consolidate Power Order token in Winterfell and mustered new units:
+- 1 Footman | 1 Ship |	2021-Nov-29, 16:33
+64 	2	POWER		Houses consolidate new power:
+- Baratheon(+2) - Lannister(+2) - Stark(+1) - Tyrell(+2)	2021-Nov-29, 16:33
+65 	3	WESTEROS		Baratheon got new supplies (1).	2021-Nov-29, 16:33
+66 	3	WESTEROS		Lannister got new supplies (4).	2021-Nov-29, 16:33
+67 	3	WESTEROS		Tyrell got new supplies (3).	2021-Nov-29, 16:33
+68 	3	WESTEROS		Stark got new supplies (1).	2021-Nov-29, 16:33
+69 	3	WESTEROS	Kamil_J	Stark exerted a power of [0] for the Iron Throne track.	2021-Nov-29, 16:34
+70 	3	WESTEROS	Sauron	Tyrell exerted a power of [1] for the Iron Throne track.	2021-Nov-29, 16:55
+71 	3	WESTEROS	Imrihil	Baratheon exerted a power of [0] for the Iron Throne track.	2021-Nov-29, 17:09
+72 	3	WESTEROS	jpawlak	Lannister exerted a power of [0] for the Iron Throne track.	2021-Nov-29, 17:40
+73 	3	WESTEROS	Imrihil	Baratheon resolved tied bids. New order of the Iron Throne track:
+- [2] Baratheon | [3] Lannister | [4] Stark | [1] Tyrell |	2021-Nov-29, 17:56
+74 	3	WESTEROS	Imrihil	Baratheon exerted a power of [2] for the Fiefdoms track.	2021-Nov-29, 17:56
+75 	3	WESTEROS	Kamil_J	Stark exerted a power of [0] for the Fiefdoms track.	2021-Nov-29, 19:04
+76 	3	WESTEROS	Sauron	Tyrell exerted a power of [0] for the Fiefdoms track.	2021-Nov-29, 19:19
+77 	3	WESTEROS	jpawlak	Lannister exerted a power of [1] for the Fiefdoms track.	2021-Nov-30, 07:05
+78 	3	WESTEROS		New order of the Fiefdoms track:
+- [1] Baratheon | [2] Lannister | [4] Stark | [3] Tyrell |	2021-Nov-30, 07:05
+79 	3	WESTEROS		Baratheon exerted a power of [0] for the King's Court track.	2021-Nov-30, 07:05
+80 	3	WESTEROS	jpawlak	Lannister exerted a power of [1] for the King's Court track.	2021-Nov-30, 07:06
+81 	3	WESTEROS	Kamil_J	Stark exerted a power of [1] for the King's Court track.	2021-Nov-30, 08:26
+82 	3	WESTEROS	Sauron	Tyrell exerted a power of [1] for the King's Court track.	2021-Nov-30, 09:13
+83 	3	WESTEROS	Sauron	Tyrell resolved tied bids. New order of the King's Court track:
+- [4] Baratheon | [3] Lannister | [2] Stark | [1] Tyrell |	2021-Nov-30, 09:14
+84 	3	WESTEROS	Imrihil	'Put To the Sword' - The holder of the Valyrian Steel Blade chose the following event: 'Rains of Autumn (W)'	2021-Nov-30, 09:20
+85 	3	PLANNING	Imrihil	Baratheon set his orders.	2021-Nov-30, 09:21
+86 	3	PLANNING	Kamil_J	Stark set his orders.	2021-Nov-30, 09:25
+87 	3	PLANNING	Sauron	Tyrell set his orders.	2021-Nov-30, 09:56
+88 	3	PLANNING	jpawlak	Lannister set his orders.	2021-Nov-30, 11:19
+89 	3	RAVEN	Sauron	Tyrell decided to look in the Wildling deck.	2021-Nov-30, 11:49
+90 	3	RAID	Sauron	Tyrell placed the card at the bottom of the Wildling deck.	2021-Nov-30, 11:49
+91 	3	RAID	Imrihil	Baratheon raided the Raid(*) Order in The Twins.	2021-Nov-30, 11:51
+92 	3	RAID	jpawlak	Lannister raided the Support Order in Moat Cailin.	2021-Nov-30, 14:42
+93 	3	MARCH	Imrihil	Baratheon has sailed from Shipbreaker Bay
+- for Blackwater Bay with 1 Ship.	2021-Nov-30, 14:49
+94 	3	MARCH	jpawlak	Lannister marched out of Lannisport
+- to Flint's Finger with 1 Footman.	2021-Nov-30, 15:23
+95 	3	MARCH	Kamil_J	Stark marched out of Winterfell
+- to Karhold with 1 Footman. -> Battle!
+[Attack] 2021/11/30, 15:38: Stark is attacking Baratheon in White Harbor from Winterfell with 1 Footman and 1 Knight	2021-Nov-30, 15:38
+96 	3	BATTLE	Kamil_J	Stark chose (4) Eddard Stark to lead his forces.	2021-Nov-30, 15:38
+97 	3	BATTLE	Imrihil	Baratheon chose (0) Patchface to lead his forces.	2021-Nov-30, 16:10
+98 	3	BATTLE	Imrihil	Baratheon lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Knight |	2021-Nov-30, 16:10
+99 	3	BATTLE	Imrihil	Baratheon resolved (0) Patchface's special ability.
+- Baratheon discarded the house card (2) Roose Bolton.	2021-Nov-30, 16:10
+100 	3	POWER	Sauron	Tyrell resolved his special Consolidate Power Order token in The Reach and mustered new units:
+- 1 Footman |	2021-Nov-30, 16:35
+101 	3	POWER	Imrihil	Baratheon resolved his special Consolidate Power Order token in Storms End and mustered new units:
+- 1 Ship |	2021-Nov-30, 16:45
+102 	3	POWER	jpawlak	Lannister resolved his special Consolidate Power Order token in Riverrun and mustered new units:
+- 2 Footmen |	2021-Dec-01, 11:36
+103 	3	POWER		Houses consolidate new power:
+- Baratheon(+1) - Lannister(+3) - Stark(+1) - Tyrell(+4)	2021-Dec-01, 11:36
+104 	4	WESTEROS	Sauron	Tyrell mustered new units:
+- 1 Footman | 1 Upgrades to a Siege Engine | 2 Ships |	2021-Dec-01, 20:29
+105 	4	WESTEROS	Imrihil	Baratheon mustered new units:
+- 1 Footman | 1 Siege Engine | 1 Ship |	2021-Dec-01, 20:41
+106 	4	WESTEROS	jpawlak	Lannister mustered new units:
+- 2 Footmen | 2 Upgrades to a Knight | 1 Upgrades to a Siege Engine | 2 Ships |	2021-Dec-02, 12:21
+107 	4	WESTEROS	Kamil_J	Stark mustered new units:
+- 1 Footman | 1 Upgrades to a Knight | 1 Ship |	2021-Dec-02, 13:06
+108 	4	WESTEROS		Game of Thrones - Houses consolidated new powers:
+- Baratheon(+2) - Lannister(+4) - Stark(+4) - Tyrell(+2)	2021-Dec-02, 13:06
+109 	4	WESTEROS		Feast for Crows (W)	2021-Dec-02, 13:06
+110 	4	PLANNING	Kamil_J	Stark set his orders.	2021-Dec-02, 13:10
+111 	4	PLANNING	Imrihil	Baratheon set his orders.	2021-Dec-02, 13:27
+112 	4	PLANNING	Sauron	Tyrell set his orders.	2021-Dec-02, 15:19
+113 	4	PLANNING	jpawlak	Lannister set his orders.	2021-Dec-02, 15:29
+114 	4	RAVEN	Sauron	Tyrell decided to look in the Wildling deck.	2021-Dec-02, 16:23
+115 	4	RAID		Unusable Raid Order has been removed from The Arbor.	2021-Dec-02, 16:24
+116 	4	RAID		Unusable Raid Order has been removed from Oldtown.	2021-Dec-02, 16:24
+117 	4	RAID	Sauron	Tyrell knows things.	2021-Dec-02, 16:24
+118 	4	RAID	Imrihil	Baratheon raided the Support Order in Winterfell.	2021-Dec-02, 16:26
+119 	4	RAID	jpawlak	Lannister raided the Support Order in Bay of Ice.	2021-Dec-02, 16:44
+120 	4	MARCH	Sauron	Tyrell has sailed from Redwyne Straights
+- for Summer Sea with 2 Ships.	2021-Dec-02, 17:03
+121 	4	MARCH	Imrihil	Baratheon marched out of Dragonstone. -> Battle!
+[Attack] 2021/12/02, 18:23: Baratheon is attacking Stark in White Harbor from Dragonstone with 1 Siege Engine	2021-Dec-02, 18:23
+122 	4	BATTLE	Imrihil	Baratheon chose (2) Brienne of Tarth to lead his forces.	2021-Dec-02, 18:24
+123 	4	BATTLE	Kamil_J	Stark chose (0) Catelyn Stark to lead his forces.	2021-Dec-02, 18:59
+124 	4	BATTLE	Kamil_J	Stark lost the battle and withdrew to Castle Black.
+- Following units were killed: 1 Knight |	2021-Dec-02, 18:59
+125 	4	MARCH	jpawlak	Lannister marched out of Lannisport
+- to Stoney Sept with 1 Footman.	2021-Dec-02, 23:22
+126 	4	MARCH	Kamil_J	Stark has sailed from the Port of Winterfell
+- for Bay of Ice with 1 Ship.	2021-Dec-02, 23:33
+127 	4	MARCH	Sauron	Tyrell marched out of The Reach
+- to King's Landing with 1 Siege Engine and 1 Knight and defeated the deployed neutral forces there.	2021-Dec-03, 08:58
+128 	4	MARCH	Imrihil	Baratheon removed his March(+1) Order in The Narrow Sea.	2021-Dec-03, 09:20
+129 	4	MARCH	jpawlak	Lannister marched out of Riverrun
+- to Harrenhal with 1 Knight. -> Battle!
+[Attack] 2021/12/03, 10:03: Lannister is attacking Tyrell in Highgarden from Riverrun with 1 Knight and 1 Siege Engine	2021-Dec-03, 10:03
+130 	4	BATTLE	jpawlak	Lannister chose (0) Cersei Lannister to lead his forces.	2021-Dec-03, 10:03
+131 	4	BATTLE	Sauron	Tyrell chose (1) Alester Florent to lead his forces.	2021-Dec-03, 11:42
+132 	4	BATTLE	Sauron	Tyrell lost the battle and withdrew to The Reach.	2021-Dec-03, 11:42
+133 	4	BATTLE	jpawlak	Lannister resolved (0) Cersei Lannister's special ability.
+- no orders have been removed.	2021-Dec-03, 11:48
+134 	4	MARCH	Kamil_J	Stark removed his March(+1) Order in The Twins.	2021-Dec-03, 12:16
+135 	4	MARCH	Imrihil	Baratheon marched out of Storms End -> Battle!
+[Attack] 2021/12/03, 12:38: Baratheon is attacking Stark in The Twins from Storms End with 1 Footman	2021-Dec-03, 12:38
+136 	4	BATTLE	Imrihil	Baratheon chose (2) Ser Davos Seaworth to lead his forces.	2021-Dec-03, 12:38
+137 	4	BATTLE	Kamil_J	Stark chose (2) Greatjon Umber to lead his forces.	2021-Dec-03, 12:48
+138 	4	BATTLE	Kamil_J	Stark lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Footman |	2021-Dec-03, 12:48
+139 	4	MARCH	jpawlak	Lannister marched out of Stoney Sept
+- to Riverrun with 1 Footman.	2021-Dec-03, 12:55
+140 	4	POWER		Houses consolidate new power:
+- no house could consolidate any power.	2021-Dec-03, 12:55
+141 	5	WESTEROS	Sauron	Tyrell mustered new units:
+- 1 Upgrades to a Siege Engine | 1 Ship |	2021-Dec-03, 14:49
+142 	5	WESTEROS	Imrihil	Baratheon mustered new units:
+- 2 Footmen | 1 Siege Engine |	2021-Dec-03, 15:00
+143 	5	WESTEROS	jpawlak	Lannister mustered new units:
+- 1 Footman | 1 Upgrades to a Knight | 1 Knight | 1 Siege Engine |	2021-Dec-03, 18:45
+144 	5	WESTEROS	Kamil_J	Stark mustered new units:
+- 1 Upgrades to a Knight | 1 Ship |	2021-Dec-03, 18:47
+145 	5	WESTEROS	Sauron	'Dark Wings, Dark Words (W)' - The holder of the Messenger Raven chose the following event: 'Game of Thrones'	2021-Dec-03, 19:29
+146 	5	WESTEROS		Game of Thrones - Houses consolidated new powers:
+- Baratheon(+3) - Lannister(+5) - Stark(+4) - Tyrell(+4)	2021-Dec-03, 19:29
+147 	5	WESTEROS	Sauron	Wildlings Attack: Tyrell deployed a power of [1] against the wildlings.	2021-Dec-04, 13:38
+148 	5	WESTEROS	Kamil_J	Wildlings Attack: Stark deployed a power of [0] against the wildlings.	2021-Dec-03, 19:35
+149 	5	WESTEROS	Imrihil	Wildlings Attack: Baratheon deployed a power of [1] against the wildlings.	2021-Dec-03, 19:38
+150 	5	WESTEROS	jpawlak	Wildlings Attack: Lannister deployed a power of [10] against the wildlings.	2021-Dec-09, 15:12
+151 	5	WESTEROS		Drawn Wildling card: Crow Killers	2021-Dec-09, 15:12
+152 	5	PLANNING	jpawlak	Lannister set his orders.	2021-Dec-09, 15:17
+153 	5	PLANNING	Kamil_J	Stark set his orders.	2021-Dec-09, 15:51
+154 	5	PLANNING	Imrihil	Baratheon set his orders.	2021-Dec-09, 19:56
+155 	5	PLANNING	Sauron	Tyrell set his orders.	2021-Dec-10, 15:52
+156 	5	RAVEN	Sauron	Tyrell decided to look in the Wildling deck.	2021-Dec-10, 15:53
+157 	5	RAID		Unusable Raid Order has been removed from Sea of Dorne.	2021-Dec-10, 15:54
+158 	5	RAID		Unusable Raid Order has been removed from Blackwater Bay.	2021-Dec-10, 15:54
+159 	5	RAID		Unusable Raid Order has been removed from Winterfell.	2021-Dec-10, 15:54
+160 	5	RAID	Sauron	Tyrell knows things.	2021-Dec-10, 15:54
+161 	5	RAID	Sauron	Tyrell raided the Defense(+2) Order in Highgarden.	2021-Dec-10, 15:54
+162 	5	RAID	jpawlak	Lannister raided the Raid Order in Redwyne Straights.	2021-Dec-10, 16:03
+163 	5	MARCH	Sauron	Tyrell marched out of The Reach -> Battle!
+[Attack] 2021/12/10, 20:36: Tyrell is attacking Lannister in Highgarden from The Reach with 1 Siege Engine	2021-Dec-10, 20:36
+164 	5	BATTLE	Sauron	Tyrell chose (4) Mace Tyrell to lead his forces.	2021-Dec-10, 20:38
+165 	5	BATTLE	jpawlak	Lannister chose (4) Tywin Lannister to lead his forces.	2021-Dec-10, 20:48
+166 	5	BATTLE	Sauron	Tyrell lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Siege Engine |	2021-Dec-11, 10:10
+167 	5	MARCH	Imrihil	Baratheon marched out of White Harbor
+- to Sunspear with 1 Siege Engine and defeated the deployed neutral forces there.	2021-Dec-11, 10:25
+168 	5	MARCH	jpawlak	Lannister marched out of Harrenhal
+- to Crackclaw Point with 1 Knight.	2021-Dec-11, 15:02
+169 	5	GAME END		Lannister wins this game of thrones!	2021-Dec-11, 15:02
+
+END LOG
+Game Setting
+2nd Edition Garrisons 	YES
+2nd Edition Greyjoy Start Pos. 	NO
+2nd Edition House Card Return 	YES
+2nd Edition House Cards 	YES
+2nd Edition Knights Limit 	YES
+2nd Edition Lannister Ship +1 	NO
+2nd Edition Map 	NO
+2nd Edition Raid/CP Orders 	YES
+2nd Edition SE Limit 	YES
+2nd Edition Tides Of Battle 	NO
+2nd Edition Tiebreaker 	NO
+2nd Edition Tiebreaker 2019 	YES
+2nd Edition Westeros Cards 	YES
+2nd Edition Wildling Cards 	YES
+2nd Edition Wildlings Strength 	YES
+2nd Edition Win Condition 	YES
+ACoK Battle Variant 	NO
+ACoK Kings Court 	NO
+ACoK Ports 	YES
+ACoK Siege Engines 	YES
+ACoK Westeros Phase 	NO
+Custom Drowned Pyke 	YES
+Custom Oldtown + Crown 	YES
+
+RATED GAME
+
+
+Created 2022-Jan-31 20:17:55 UTC+1
