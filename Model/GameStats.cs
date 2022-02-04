@@ -4,10 +4,10 @@ namespace ThronemastersStatsCounter.Model
 {
     public class GameStats : Dictionary<House, HouseStats>
     {
-        public string Id { get; }
+        public int Id { get; }
         public string Name { get; }
 
-        public GameStats(string id, string name)
+        public GameStats(int id, string name)
         {
             Id = id;
             Name = name;
@@ -44,20 +44,36 @@ namespace ThronemastersStatsCounter.Model
 
         public void SumHouses(GameStats stats)
         {
-            foreach (var key in Keys)
-                this[key].Sum(stats[key]);
+            var houses = Keys.ToHashSet();
+            houses.UnionWith(stats.Keys);
+            foreach (var key in houses)
+            {
+                var houseStats = stats[key];
+                if (!ContainsKey(key))
+                    this[key] = new HouseStats(houseStats.House, houseStats.Player);
+                this[key].Sum(houseStats);
+            }
         }
 
         public void SumPlayers(GameStats stats)
         {
-            foreach (var value in Values)
+            var players = Values.Select(houseStats => houseStats.Player).ToHashSet();
+            players.UnionWith(stats.Values.Select(houseStats => houseStats.Player));
+            foreach (var player in players)
             {
-                var houseStats = stats.Values
-                    .FirstOrDefault(v => v.Player == value.Player);
-                if (houseStats == null)
+                var playerStats = stats.Values
+                    .FirstOrDefault(v => v.Player == player);
+                if (playerStats == null)
                     continue;
+                var thisPlayerStats = Values
+                    .FirstOrDefault(v => v.Player == player);
+                if (thisPlayerStats == null)
+                {
+                    thisPlayerStats = new HouseStats(playerStats.House, playerStats.Player);
+                    this[playerStats.House] = thisPlayerStats;
+                }
 
-                value.Sum(houseStats);
+                thisPlayerStats.Sum(playerStats);
             }
         }
     }

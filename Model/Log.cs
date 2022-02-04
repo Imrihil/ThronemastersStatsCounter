@@ -2,10 +2,10 @@
 {
     public class Log : List<LogEvent>
     {
-        public string GameId { get; }
+        public int GameId { get; }
         public string GameName { get; }
 
-        public Log(string gameId, string gameName)
+        public Log(int gameId, string gameName)
         {
             GameId = gameId;
             GameName = gameName;

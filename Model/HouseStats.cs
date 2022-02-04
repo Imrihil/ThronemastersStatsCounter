@@ -10,8 +10,8 @@ namespace ThronemastersStatsCounter.Model
         public static readonly string[] ExportHeaders =
             { "House", "Player", "Battles", "Kills", "Casualties", "Power Tokens", "Bids" };
 
-        public House House { get; }
-        public string Player { get; }
+        public House House { get; private set; }
+        public string Player { get; private set; }
         public Battles Battles { get; } = new();
         public UnitStats Kills { get; } = new();
         public UnitStats Casualties { get; } = new();
@@ -35,6 +35,8 @@ namespace ThronemastersStatsCounter.Model
 
         public void Sum(HouseStats stats)
         {
+            if (House != stats.House) House = House.NA;
+            if (Player != stats.Player) Player = "N/A";
             Battles.Sum(stats.Battles);
             Kills.Sum(stats.Kills);
             Casualties.Sum(stats.Casualties);

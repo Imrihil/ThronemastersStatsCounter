@@ -72,7 +72,7 @@ namespace ThronemastersStatsCounter
             if (!match.Success)
                 return null;
 
-            var id = match.Groups[1].Value;
+            var id = int.Parse(match.Groups[1].Value);
             var name = match.Groups[2].Value;
 
             var log = new Log(id, name);
