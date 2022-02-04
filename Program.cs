@@ -34,8 +34,8 @@ while (!cts.IsCancellationRequested)
     if (line == null)
         continue;
 
-    GameStats? housesSumStats = null;
-    GameStats? playersSumStats = null;
+    GameStats? housesSumStats = new GameStats(-1, "Houses");
+    GameStats? playersSumStats = new GameStats(-1, "Players");
     var inputs = line.Split(",");
     foreach (var input in inputs)
     {
@@ -48,14 +48,8 @@ while (!cts.IsCancellationRequested)
         var stats = CountStats(id);
         if (stats != null)
         {
-            if (housesSumStats == null)
-                housesSumStats = stats;
-            else
-                housesSumStats.SumHouses(stats);
-            if (playersSumStats == null)
-                playersSumStats = stats;
-            else
-                playersSumStats.SumPlayers(stats);
+            housesSumStats.SumHouses(stats);
+            playersSumStats.SumPlayers(stats);
         }
     }
 
